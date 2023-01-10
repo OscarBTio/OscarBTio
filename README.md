@@ -1,4 +1,3 @@
-
 Hi, I’m Oscar
 I’m interested in video gaming
 I’m currently learning programming
